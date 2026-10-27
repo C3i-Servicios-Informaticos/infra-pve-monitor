@@ -25,7 +25,7 @@ Sistema de monitorización y gestión para Proxmox Virtual Environment (PVE) con
 1. Descarga el script de instalación:
 
 ```bash
-wget https://raw.githubusercontent.com/C3i-Servicios-Informaticos/pve_monitor/refs/heads/main/installer.sh
+wget https://raw.githubusercontent.com/C3i-Servicios-Informaticos/infra-pve-monitor/refs/heads/main/installer.sh
 ```
 
 2. Dale permisos de ejecución:
